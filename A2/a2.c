@@ -4,7 +4,6 @@
 #include <time.h>
 #include <math.h>
 #include <limits.h>
-
 #define iterative 50
 
 int n = 0, x, y, maxX = 0, maxY = 0, minX = INT_MAX, minY = INT_MAX;
